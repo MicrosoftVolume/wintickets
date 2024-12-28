@@ -1,3 +1,5 @@
+Manual Activation
+
 1- From Ready-Made Ticket
 
 Make sure the internet is enabled.
