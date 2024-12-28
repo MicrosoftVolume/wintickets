@@ -1,3 +1,5 @@
+Manual Activation from Ready-Made tickets
+
 Make sure the internet is enabled.
 
 Open Windows PowerShell as administrator, and enter the following commands in the sequence in which they are given.
