@@ -1,4 +1,3 @@
-1- From Ready-Made Ticket
 Make sure the internet is enabled.
 Open Windows PowerShell as administrator, and enter the following commands in the sequence in which they are given.
 Enter the Key (Replace <key> with the key from the above list) with the following command:
